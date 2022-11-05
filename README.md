@@ -1,14 +1,8 @@
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+   [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 # ORM-E-Commerce
-HW 13
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mysql2": "^2.1.0",
-    "sequelize": "^5.21.7"
-
 
 ## Description
-Create tables for departments, roles, and employees to keep track of their salary and positions
+The back end for an e-commerce website that uses the latest technologies!
 
 ## Table of Contents
 * [Installation](#installation)
@@ -26,21 +20,21 @@ Run "npm i", which will install: express, mysql2, sequelize, dotenv;
 ## Usage
 In the command terminal:
 Log into MySQL and enter
-"SOURCE db/schema.sql";
+"SOURCE db/schema.sql";exit
 "npm run seed";
 "npm start"
       
 ## Screenshot
-![screenshot of finished terminal inquiry](./Assets/Desktop%20screenshot.png)
-[video link of demonstration](https://drive.google.com/file/d/1CXnMbZYJo2OqnoP4UAURMnpPJlYBr3BA/view)
+![screenshot of functionality](./Assets/Desktop%20screenshot.png)
+[video link of demonstration](https://drive.google.com/file/d/1hjrV-YEiQ-sphPwhE_RYZdheZ3h8ASq1/view)
 
       
 ## Credits
-Joe Rehfuss for manager ID alias assistance, thank you! and teaching me how to use mysql and inquirer
-W3Schools for syntax
+Joe Rehfuss for teaching me how to use express, mysql, sequelize, and dotenv. 
+William Lucht for pointing out the comma I missed.
 
 ## License
-This application is covered under the MIT license. See repo for license.
+This application is covered under the Creative Commons license. See repo for license.
       
 ## Contributing
 
